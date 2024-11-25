@@ -3,5 +3,5 @@ class Employee:
         self.employeename=employeename
         self.age=age
 
-    def display():
+    def display(self):
         print(f"The employee name is {self.employeename}")
